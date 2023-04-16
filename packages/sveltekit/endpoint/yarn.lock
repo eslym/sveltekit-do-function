@@ -113,9 +113,9 @@
   integrity sha512-xJ7OH/nanouJO9pf03YsL9NAFQBHd8AqfrQd7Pf5laGyyTt/gToul6QYOA/i5i/q8y9iaM5DQFNTgpi995VkOg==
 
 "@eslym/sveltekit-adapter-openwhisk@^1.0.0-beta.1":
-  version "1.0.0-beta.4"
-  resolved "https://registry.yarnpkg.com/@eslym/sveltekit-adapter-openwhisk/-/sveltekit-adapter-openwhisk-1.0.0-beta.4.tgz#df1c85a3b883195e7cb026c16d2c8bf64fc5233b"
-  integrity sha512-/8h6nDfcOmYdbhoEEYn6RXKuJx5M88V9xxbl2sv9pTFt+fjK1Trzk5CJ8/LAkjO4kLb0wgzXUnHbv1dFtU18iA==
+  version "1.0.0-beta.5"
+  resolved "https://registry.yarnpkg.com/@eslym/sveltekit-adapter-openwhisk/-/sveltekit-adapter-openwhisk-1.0.0-beta.5.tgz#c891951f5907cb35fff0e0eba55e381291c0b2bb"
+  integrity sha512-sBqJhGWov6v/hWr4RjbZkA4JXOspggRop/axzjUJshzEp/pFa70a8F+c6Lu6x9G17K2sQ0ep8PMe4KhhieETVw==
   dependencies:
     "@rollup/plugin-commonjs" "^24.0.0"
     "@rollup/plugin-json" "^6.0.0"
