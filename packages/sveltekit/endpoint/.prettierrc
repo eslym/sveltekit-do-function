@@ -1,0 +1,15 @@
+{
+    "useTabs": false,
+    "singleQuote": true,
+    "trailingComma": "none",
+    "printWidth": 120,
+    "tabWidth": 4,
+    "endOfLine": "lf",
+    "plugins": ["prettier-plugin-svelte"],
+    "pluginSearchDirs": ["."],
+    "overrides": [
+        { "files": "*.svelte", "options": { "parser": "svelte" } },
+        { "files": ["*.yaml", "*.yml"], "options": { "tabWidth": 2 } },
+        { "files": "*.prisma", "options": { "tabWidth": 2 } }
+    ]
+}
