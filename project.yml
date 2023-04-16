@@ -6,6 +6,6 @@ packages:
         web: raw
         limits:
           timeout: 5000
-          memory: 512
+          memory: 1024
 environment:
   BASE_URL: "${BASE_URL}"
