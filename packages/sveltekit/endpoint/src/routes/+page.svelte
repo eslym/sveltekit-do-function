@@ -17,7 +17,7 @@
             {data.text}
         </p>
         <p class="mt-8 text-right text-lg italic text-slate-400">
-            —— {data.author}
+            —— {data.from}
         </p>
     </div>
 </div>
