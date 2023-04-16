@@ -2,7 +2,6 @@ packages:
   - name: sveltekit
     functions:
       - name: endpoint
-        main: build/index.js
         runtime: nodejs:18
         web: raw
         limits:
